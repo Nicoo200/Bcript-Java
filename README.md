@@ -4,7 +4,7 @@ Este projeto é uma API desenvolvida em **Java** utilizando o **Spring Boot**, g
 
 ## 🚀 Tecnologias Utilizadas
 
-- Java 17+
+- Java 21
 - Spring Boot
 - Spring Web
 - Spring Security
@@ -40,12 +40,19 @@ O projeto foi criado utilizando o [Spring Initializr](https://start.spring.io/),
 ```bash
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Nicoo200/Bcript-Java.git
 
 2. Navegue até o diretório do projeto:
-cd seu-repositorio
+cd Bcript-Java
 
 ```
+
+## 🧪 Testes
+Você pode usar ferramentas como **Postman** ou **Insomnia** para testar os endpoints da API.
+
+---
+
+### 👨‍💻 Desenvolvido por ❤️ [Nicoo200](https://github.com/Nicoo200) em Java! 
 
 
 
