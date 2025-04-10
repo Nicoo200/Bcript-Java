@@ -35,8 +35,6 @@ O projeto foi criado utilizando o [Spring Initializr](https://start.spring.io/),
 
 ## ▶️ Como rodar o projeto
 
-1. Clone o repositório:
-
 ```bash
 
 1. Clone o repositório:
